@@ -1,0 +1,14 @@
+ <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+        <!-- Sol -->
+        <circle cx="150" cy="50" r="30" stroke="orange" stroke-width="4" fill="yellow" />
+        <!-- Césped -->
+        <rect x="0" y="150" width="200" height="50" fill="green" />
+        <!-- Tronco del árbol -->
+        <rect x="50" y="100" width="20" height="50" fill="brown" />
+        <!-- Copa del árbol -->
+        <circle cx="60" cy="90" r="30" stroke="green" stroke-width="4" fill="green" />
+        <!-- Nube 1 -->
+        <circle cx="70" cy="30" r="20" fill="lightblue" />
+        <circle cx="90" cy="30" r="20" fill="lightblue" />
+        <circle cx="80" cy="20" r="20" fill="lightblue" />
+    </svg>
